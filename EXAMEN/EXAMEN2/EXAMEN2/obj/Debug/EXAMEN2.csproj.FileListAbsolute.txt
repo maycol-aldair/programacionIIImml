@@ -1,0 +1,6 @@
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\obj\Debug\EXAMEN2.csprojAssemblyReference.cache
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\bin\Debug\EXAMEN2.exe.config
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\bin\Debug\EXAMEN2.exe
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\bin\Debug\EXAMEN2.pdb
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\obj\Debug\EXAMEN2.exe
+D:\programacionIIImml\EXAMEN\EXAMEN2\EXAMEN2\obj\Debug\EXAMEN2.pdb
